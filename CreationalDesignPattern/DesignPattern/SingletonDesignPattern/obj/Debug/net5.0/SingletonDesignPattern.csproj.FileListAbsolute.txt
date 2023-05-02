@@ -1,0 +1,16 @@
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.exe
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.deps.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.runtimeconfig.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.runtimeconfig.dev.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.pdb
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfo.cs
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\refint\SingletonDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.pdb
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.genruntimeconfig.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\DesignPattern\SingletonDesignPattern\obj\Debug\net5.0\ref\SingletonDesignPattern.dll

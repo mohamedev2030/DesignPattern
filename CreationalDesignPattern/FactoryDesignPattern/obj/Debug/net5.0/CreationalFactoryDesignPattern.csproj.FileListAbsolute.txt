@@ -1,0 +1,16 @@
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.csproj.AssemblyReference.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.AssemblyInfoInputs.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.AssemblyInfo.cs
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.exe
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.deps.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.runtimeconfig.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.runtimeconfig.dev.json
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\bin\Debug\net5.0\CreationalFactoryDesignPattern.pdb
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\refint\CreationalFactoryDesignPattern.dll
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.pdb
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\CreationalFactoryDesignPattern.genruntimeconfig.cache
+D:\Programming\Projects\DesignPattern\CreationalDesignPattern\FactoryDesignPattern\obj\Debug\net5.0\ref\CreationalFactoryDesignPattern.dll
